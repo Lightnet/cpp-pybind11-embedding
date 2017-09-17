@@ -2,7 +2,11 @@
 
 Information: Simple setup and builds.
 
-By using the visual studio code editor and using the tasks it will build the simple pybind11 file.
+This is just a test for embedding.
+
+http://pybind11.readthedocs.io/en/master/advanced/embedding.html
+
+By using the Visual Studio Code editor and using the tasks it will build the simple pybind11 file.
 
 Run Tasks:
  * Python test.py
